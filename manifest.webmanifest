@@ -1,9 +1,9 @@
 {
-  "id": "./diet-companion.html",
+  "id": "./",
   "name": "My Two-Meal Diet Companion",
   "short_name": "Diet Companion",
   "description": "Private two-meal diet, health and report tracker.",
-  "start_url": "./diet-companion.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
